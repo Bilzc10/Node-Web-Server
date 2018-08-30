@@ -1,0 +1,19 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "Runs html files from WWW directory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "server",
+    "node"
+  ],
+  "author": "Bilzc10",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
