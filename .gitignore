@@ -73,4 +73,5 @@ typings/
 .serverless
 
 # Default Webserver Directory
-www
+www/*
+!www/file
