@@ -5,7 +5,6 @@ const app = express();
 const server = require('http').Server(app);
   //Path
 const path = require('path');
-
   //Options file - for modifying settings
 var options = require("./options.json");
 
